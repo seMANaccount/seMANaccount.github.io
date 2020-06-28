@@ -1,1 +1,3 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+            <title>seMAN is here !!  | seMANaccount.github.io</title>
+		  
+		  
