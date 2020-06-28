@@ -14,3 +14,6 @@ da gibts zuviele kleine dinge die nicht auf anhieb klappen und nicht ausfuehrlic
 > in the end.
 > If not always in the ways we expect.
 
+
+<img src="http://www.seyr.tech/woodshapes/images/woodshapes/WoodShapes%20(174).jpg"/>
+
