@@ -9,8 +9,8 @@ da gibts zuviele kleine dinge die nicht auf anhieb klappen und nicht ausfuehrlic
 * noch auf der suche der besseren haelfte
 * hat fast nie zeit
 
-## ein motto von mir
-was auch immer es kostet, am ende des tages wirst es bezahlen muessen.
-
-
+> My mum always said
+> things we lose have a way of coming back to us
+> in the end.
+> If not always in the ways we expect.
 
