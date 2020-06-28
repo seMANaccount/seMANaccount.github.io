@@ -1,3 +1,2 @@
-            <title>seMAN is here !!  | seMANaccount.github.io</title>
-		  
+seMAN is here !!  | seMANaccount.github.io	  
 		  
